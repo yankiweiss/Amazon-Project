@@ -1,1 +1,1 @@
-import '..backend-practice.js'
+import '../data/backend-practice.js'
